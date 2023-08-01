@@ -1,4 +1,4 @@
-# Using Machine Learning and Sentiment Analysis to Assess Pharmaceutical Product Sentiment
+# Using Machine Learning and Sentiment Analysis to Assess Pharmaceutical Product Sentiment [(link)](https://drive.google.com/file/d/1ixLYG298VeE9YHKcpDFUe6TzHC-EIY9u/view?usp=sharing)
 
 ### Objective
 
