@@ -7,7 +7,7 @@ import re
 
 #Convert database into usable format
 import pandas as pd
-reviews = pd.read_csv(r'C:\Users\fj142\Dropbox\FJR 2019 Research Project\Airline Sentiment ML Example Project\TRAINING80.csv', encoding='latin-1')
+reviews = pd.read_csv(r'C:\Users\fj142\Dropbox\FJR 2019 Research Project\TRAINING80.csv', encoding='latin-1')
 
 #Convert ratings on a 1-10 scale to a sentiment: positive, negative, or neutral
 def sentiment_calc(rating):
